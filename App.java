@@ -218,7 +218,10 @@ public class App {
         l1.append("taiki");
         
         
-
+        //liste 
+        List String l1= new ArrayList<>();
+        l1.append("taiki2");
+        
 
 
 
